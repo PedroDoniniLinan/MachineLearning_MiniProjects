@@ -110,9 +110,9 @@ train_labels = train_dataset.pop('MPG')
 test_labels = test_dataset.pop('MPG')
 
 
-# #### Standarization of the data
+# #### Standardization of the data
 
-# Features have very different ranges. It is good practice to standarize them, both training and test set. Afterwards this standarization should be applied to any data supplied to the model.
+# Features have very different ranges. It is good practice to standarize them, both training and test set. Afterwards this standardization should be applied to any data supplied to the model.
 
 # In[4]:
 
@@ -125,8 +125,6 @@ std_test_data = std(test_dataset)
 
 
 # ##  Building model
-
-# 
 
 # In[12]:
 
