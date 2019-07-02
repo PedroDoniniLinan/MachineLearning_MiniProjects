@@ -1,4 +1,4 @@
-# Deep Learning Mini Projects
+# Machine Learning Mini Projects
 
 This is a series of personal mini projects made on jupyter notebooks and written in Python to explore and master the various concepts of deep learning.
 
